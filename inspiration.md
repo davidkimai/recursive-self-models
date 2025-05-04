@@ -1,5 +1,5 @@
 # Inspired By
-## Building on works of researcher Josie Kins from Mindstate Design Labs.
+## Building on works of researcher Josie and Emily Kins from Mindstate Design Labs.
 
 <img width="1007" alt="image" src="https://github.com/user-attachments/assets/5a6513f5-e672-4ff3-89bd-74b34c471a8c" />
 
